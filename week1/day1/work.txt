@@ -1,1 +1,18 @@
-hello
+1]Exploring Android
+
+2]Open Handset Alliance
+
+3]Ecosystem of Android
+
+4]Introducing to github
+
+5]login to github
+
+6]learn github command - git -v
+                         mkdir it
+                         git init
+                         git status
+                         git add "add : file name"
+                         git config --global user.name "vaishnaviauti"
+                         git config --global user.email "vaishnaviauti2003@gmail.com"
+                         git commit -m "add:file"
