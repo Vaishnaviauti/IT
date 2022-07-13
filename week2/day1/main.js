@@ -9,7 +9,7 @@ let Phone_number;
 let address;
 
 function account(){
-    alert("warning")
+    alert("login successful")
     email=document.getElementById("email").value;
     password=document.getElementById("password").value;
     student_name=document.getElementById("student_name").value;
